@@ -1,4 +1,4 @@
-# 🍛 Restoran Nusantara: Analisis Penjualan & Dashboard Interaktif
+# 🍛 Restoran Nusantara: Analisis Penjualan & Dashboard 
 
 🔗 **Dashboard:** https://restoran-nusantara-dashboard.streamlit.app/
 
