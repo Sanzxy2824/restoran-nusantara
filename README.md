@@ -2,7 +2,8 @@
 
 🔗 **Dashboard:** https://restoran-nusantara-dashboard.streamlit.app/
 
-<!-- Seret screenshot dashboard ke baris kosong di bawah ini, lalu hapus baris komentar ini -->
+<img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/af8bbde7-b180-47f1-b0ce-572d279c8f6c" />
+
 
 ## Latar Belakang (Studi Kasus)
 **Skenario:** Sebuah restoran UMKM memiliki data transaksi 6 bulan dalam bentuk file CSV. Pemilik ingin tahu menu apa yang paling menguntungkan, jam berapa restoran paling ramai, dan apakah diskon yang diberikan efektif.
